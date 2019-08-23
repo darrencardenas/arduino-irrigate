@@ -58,10 +58,17 @@ I used screw terminal blocks and a 2x4 female header to allow for easy disassemb
 <br><br>
 
 ## 3D Printed Models
-I designed a custom waterproof enclosure to house the water solenoid valve. Assembled with a gasket and stainless steel screws. Click the image to download the enclosure and lid.
+I designed a custom waterproof enclosure to house the water solenoid valve. Assembled with a gasket and stainless steel screws. 
 <p align="center">
 <a href="3D_models">
 <img src="media/valve_enclosure.png" src="3D Models"/></a></p>
+<br>
+<p align="center">
+<a href="3D_models/valve_enclosure.stl">
+<img src="media/enclosure_printed.jpg" src="Enclosure" align="middle"/></a>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="3D_models/valve_lid.stl">
+<img src="media/lid_printed.jpg" src="Lid" align="middle"/></a></p>
 <br><br>
 
 
