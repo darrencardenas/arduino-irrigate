@@ -42,7 +42,10 @@
 <a href="code/irrigate.ino">
 <img src="media/code_thumbnail.png" alt="INO file"/></a></p>
 
-
+## Arduino Proto Shield Layout
+<p align="center">
+<a href="build_plans/shield-layout_irrigate.png">
+<img src="media/shield_thumbnail.png" src="Proto Shield Layout"/></a></p>
 
 
 
