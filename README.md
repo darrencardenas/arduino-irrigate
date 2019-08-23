@@ -57,4 +57,15 @@ I used screw terminal blocks and a 2x4 female header to allow for easy disassemb
 <img src="media/shield_thumbnail.png" src="Proto Shield Layout"/></a></p>
 <br><br>
 
+## 3D Printed Models
+I designed a custom waterproof enclosure to house the water solenoid valve. Assembled with a gasket and stainless steel screws.
+<p align="center">
+<a href="3D_models">
+<img src="media/valve_enclosure.png" src="3D Models"/></a></p>
+<br><br>
+
+
+
+
+
 
