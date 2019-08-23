@@ -10,6 +10,7 @@
 <p align="center">
 <img src="media/watering_20fps.gif" alt="Watering Video"/>
 </p>   
+<br><br>
  
  ## Operation
  At a set time interval, the Arduino checks the moisture sensor for a minimum value. If the reading is below the minimum value, the water valve is opened for a period of time.  The moisture readings are sent via [email](https://www.smtp2go.com/setupguide/arduino/) and [text message](https://www.lifewire.com/sms-gateway-from-email-to-sms-text-message-2495456).  The readings are also saved to a [publicly viewable IoT website](https://community.thingspeak.com/tutorials/arduino/send-data-to-thingspeak-with-arduino/) to store data and generate graphs.
@@ -19,6 +20,7 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="media/text.png" alt="Text Message" align="middle" />
 </p>
+<br><br>
 
 ## Features
 - Allows customizable intervals for soil moisture checks and watering
@@ -27,25 +29,30 @@
 - Provides data monitoring via website
 - Supports WiFi for data transmission
 - Powered by a single +12VDC source
+<br><br>
+
 
 <p align="center">
 <img src="media/overview.jpg" alt="Top Down View" align="middle" />
 </p>
+<br><br>
 
 ## Schematic Diagram
 <p align="center">
 <a href="build_plans/schematic_irrigate.pdf">
 <img src="media/schematic_irrigate.png" src="Schematic"/></a></p>
+<br><br>
 
 ## Arduino Code
 <p align="left">
 <a href="code/irrigate.ino">
 <img src="media/code_thumbnail.png" alt="INO file"/></a></p>
+<br><br>
 
 ## Arduino Proto Shield Layout
 <p align="center">
 <a href="build_plans/shield-layout_irrigate.png">
 <img src="media/shield_thumbnail.png" src="Proto Shield Layout"/></a></p>
-
+<br><br>
 
 
