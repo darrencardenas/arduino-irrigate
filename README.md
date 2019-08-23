@@ -66,7 +66,7 @@ I designed a custom waterproof enclosure to house the water solenoid valve. Asse
 <p align="center">
 <a href="3D_models/valve_enclosure.stl">
 <img src="media/enclosure_printed.jpg" src="Enclosure" align="middle"/></a>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp
 <a href="3D_models/valve_lid.stl">
 <img src="media/lid_printed.jpg" src="Lid" align="middle"/></a></p>
 <br><br>
