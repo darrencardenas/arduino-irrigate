@@ -31,7 +31,6 @@
 - Powered by a single +12VDC source
 <br><br>
 
-
 <p align="center">
 <img src="media/overview.png" alt="Top Down View" align="middle" />
 </p>
@@ -125,6 +124,13 @@ Install screws and standoffs on the Arduino and relay module. Then use some kind
 </a></p> 
 <br><br>
 
-
+## Set Up
+- Update the code to include your SSID name/password, [ThingSpeak Write API key](https://community.thingspeak.com/tutorials/arduino/send-data-to-thingspeak-with-arduino/), and [SMTP2GO username/password](https://www.smtp2go.com/setupguide/arduino/).
+- Update the email sender and [recipient](https://www.lifewire.com/sms-gateway-from-email-to-sms-text-message-2495456) lists in the code.
+- Update the moisture check interval and watering period in the code.
+- Update the MOISTURE_MAX value in the code by taking readings with the sensor blade fully submerged in water.
+- Update the MOISTURE_THRESHOLD value in the code with your desired value. 
+- Ensure water pressure going to the [water solenoid valve](https://www.adafruit.com/product/997) is at least 3PSI.
+- The water solenoid valve is uni-directional. Confirm water flow will be in the correct direction. 
 
 
