@@ -1,6 +1,6 @@
 # arduino-irrigate
 
- ## Description
+ ## Introduction
  
  This project contains code, schematics, build plans, and 3D models to construct an automated garden watering system.  The main components of the system are an [Arduino Uno Rev3 microcontroller board](https://store.arduino.cc/usa/arduino-uno-rev3), a [soil moisture sensor](https://vegetronix.com/Products/VH400/), and a [water solenoid valve](https://www.adafruit.com/product/997).  The water solenoid valve is connected to a garden hose and a suitable watering device, such as a sprinkler or sprayer.  I used an old garden hose with holes drilled into it.  
  
@@ -19,4 +19,17 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="media/text.png" alt="Text Message" align="middle" />
 </p>
+
+## Features
+- Allows customizable intervals for soil moisture checks and watering
+- Leverages waterproof enclosures and cabling
+- Sends email and text message (SMS) status updates
+- Provides data monitoring via website
+- Supports WiFi for data transmission
+- Powered by a single +12VDC source
+
+<p align="center">
+<img src="media/overview.jpg" alt="Top Down View" align="middle" />
+</p>
+
 
