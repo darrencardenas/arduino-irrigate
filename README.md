@@ -73,7 +73,30 @@ I designed a custom waterproof enclosure to house the water solenoid valve. Asse
 
 
 ## Water Solenoid Valve Enclosure Assembly
-Includes parts list.
+<p align="center">
+<a href="build_plans/assembly_valve_enclosure.pdf">
+<img src="media/valve_assembly1.png" alt="Valve Assembly 1"/>
+</a></p> 
+ 
+<p align="center">
+<a href="build_plans/assembly_valve_enclosure.pdf">
+<img src="media/valve_assembly2.png" alt="Valve Assembly 2"/>
+</a></p> 
+
+<p align="center">
+<a href="build_plans/assembly_valve_enclosure.pdf">
+<img src="media/valve_assembly3.png" alt="Valve Assembly 3"/>
+</a></p> 
+
+<p align="center">
+<a href="build_plans/assembly_valve_enclosure.pdf">
+<img src="media/valve_assembly4.png" alt="Valve Assembly 4"/>
+</a></p> 
+<br><br>
+
+
+
+
 
 ## Arduino Enclosure Assembly
 Includes parts list.
