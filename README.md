@@ -44,12 +44,14 @@
 <br><br>
 
 ## Arduino Code
+Developed in Arduino IDE 1.8.9.
 <p align="left">
 <a href="code/irrigate.ino">
 <img src="media/code_thumbnail.png" alt="INO file"/></a></p>
 <br><br>
 
 ## Arduino Proto Shield Layout
+I used screw terminal blocks and a 2x4 female header to allow for easy disassembly.
 <p align="center">
 <a href="build_plans/shield-layout_irrigate.png">
 <img src="media/shield_thumbnail.png" src="Proto Shield Layout"/></a></p>
