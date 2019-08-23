@@ -34,10 +34,14 @@
 
 ## Schematic Diagram
 <p align="center">
-<a href="https://github.com/darrencardenas/arduino-irrigate/blob/master/build_plans/schematic_irrigate.pdf">
-<img src="media/schematic_irrigate.png" />
-</a>
- </p>
+<a href="build_plans/schematic_irrigate.pdf">
+<img src="media/schematic_irrigate.png" src="Schematic"/></a></p>
+
+## Arduino Code
+<p align="left">
+<a href="code/irrigate.ino">
+<img src="media/code_thumbnail.png" alt="INO file"/></a></p>
+
 
 
 
