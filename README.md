@@ -32,4 +32,13 @@
 <img src="media/overview.jpg" alt="Top Down View" align="middle" />
 </p>
 
+## Schematic Diagram
+<p align="center">
+<a href="https://github.com/darrencardenas/arduino-irrigate/blob/master/build_plans/schematic_irrigate.pdf">
+<img src="media/schematic_irrigate.png" />
+</a>
+ </p>
+
+
+
 
