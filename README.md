@@ -72,7 +72,7 @@ I designed a custom waterproof enclosure to house the water solenoid valve. Asse
 <br><br>
 
 
-## Water Solenoid Valve Enclosure Assembly
+## Water Solenoid Valve Enclosure 
 <p align="center">
 <a href="build_plans/assembly_valve_enclosure.pdf">
 <img src="media/valve_assembly1.png" alt="Valve Assembly 1"/>
@@ -95,12 +95,32 @@ I designed a custom waterproof enclosure to house the water solenoid valve. Asse
 <br><br>
 
 
+## Arduino Enclosure 
+<p align="center">
+<a href="build_plans/assembly_arduino_enclosure.pdf">
+<img src="media/arduino_enc1.png" alt="Arduino Enclosure 1"/>
+</a></p> 
 
+<p align="center">
+<a href="build_plans/assembly_arduino_enclosure.pdf">
+<img src="media/arduino_enc2.png" alt="Arduino Enclosure 2"/>
+</a></p> 
 
+<p align="center">
+<a href="build_plans/assembly_arduino_enclosure.pdf">
+<img src="media/arduino_enc3.png" alt="Arduino Enclosure 3"/>
+</a></p> 
 
-## Arduino Enclosure Assembly
-Includes parts list.
+<p align="center">
+<a href="build_plans/assembly_arduino_enclosure.pdf">
+<img src="media/arduino_enc4.png" alt="Arduino Enclosure 4"/>
+</a></p> 
 
+<p align="center">
+<a href="build_plans/assembly_arduino_enclosure.pdf">
+<img src="media/arduino_enc5.png" alt="Arduino Enclosure 5"/>
+</a></p> 
+<br><br>
 
 
 
