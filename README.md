@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<img src="media/overview.jpg" alt="Top Down View" align="middle" />
+<img src="media/overview.png" alt="Top Down View" align="middle" />
 </p>
 <br><br>
 
