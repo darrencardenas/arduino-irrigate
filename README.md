@@ -57,7 +57,7 @@ I used screw terminal blocks and a 2x4 female header to allow for easy disassemb
 <br><br>
 
 ## 3D Printed Models
-I designed a custom waterproof enclosure to house the water solenoid valve. I used PETG filament and 0.3mm layer height. Enclosure was printed with 10% infill and supports.  Lid was printed with 50% infill and no supports.  I cut a square using gasket material and punched holes for stainless steel screws. 
+I designed a [custom waterproof enclosure](https://www.thingiverse.com/thing:3825186) to house the water solenoid valve. I used PETG filament and 0.3mm layer height. Enclosure was printed with 10% infill and supports.  Lid was printed with 50% infill and no supports.  I cut a square using gasket material and punched holes for stainless steel screws. 
 <p align="center">
 <a href="3D_models">
 <img src="media/valve_enclosure.png" src="3D Models"/></a></p>
@@ -72,7 +72,7 @@ I designed a custom waterproof enclosure to house the water solenoid valve. I us
 
 
 ## Water Solenoid Valve Enclosure 
-To install the solenoid valve, insert the bulkhead adapters into the enclosure first.  Then, connect the valve to one of the bulkhead adapters by turning the adapter from outside of the enclosure.  After tightening the first adapter, there should be enough clearance to attach the second adapter.  Then install the bulkhead rubber washers and locknuts. The pipe fittings require teflon tape or thread sealant for leak-proof operation.
+To install the solenoid valve, insert the bulkhead adapters into the enclosure first.  Then, connect the valve to one of the bulkhead adapters by turning the adapter from outside of the enclosure.  After tightening the first adapter, there should be enough clearance to attach the second adapter.  Then install the bulkhead rubber washers and locknuts. The pipe fittings require teflon tape or thread sealant for leak-proof operation. 
 <p align="center">
 <a href="build_plans/assembly_valve_enclosure.pdf">
 <img src="media/valve_assembly1.png" alt="Valve Assembly 1"/>
